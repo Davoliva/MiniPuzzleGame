@@ -1,5 +1,4 @@
 # Mini FPS Puzzle game
-####Developed with Unreal Engine 4
 
 This Project seeks to test some tools such as the use of projectiles, conditions of success, failure conditions, artificial intelligence, physics, objectives, graphics interface (UMG) and unreal engine 4's local multiplayer.
 
